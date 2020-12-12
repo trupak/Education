@@ -1,0 +1,12 @@
+D:\git\Education\DataStructures\bin\Debug\net5.0\DataStructures.deps.json
+D:\git\Education\DataStructures\bin\Debug\net5.0\DataStructures.dll
+D:\git\Education\DataStructures\bin\Debug\net5.0\ref\DataStructures.dll
+D:\git\Education\DataStructures\bin\Debug\net5.0\DataStructures.pdb
+D:\git\Education\DataStructures\obj\Debug\net5.0\DataStructures.csprojAssemblyReference.cache
+D:\git\Education\DataStructures\obj\Debug\net5.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Education\DataStructures\obj\Debug\net5.0\DataStructures.AssemblyInfoInputs.cache
+D:\git\Education\DataStructures\obj\Debug\net5.0\DataStructures.AssemblyInfo.cs
+D:\git\Education\DataStructures\obj\Debug\net5.0\DataStructures.csproj.CoreCompileInputs.cache
+D:\git\Education\DataStructures\obj\Debug\net5.0\DataStructures.dll
+D:\git\Education\DataStructures\obj\Debug\net5.0\ref\DataStructures.dll
+D:\git\Education\DataStructures\obj\Debug\net5.0\DataStructures.pdb
