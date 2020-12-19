@@ -5,15 +5,70 @@
     <projectFile>ChallengesTests/ChallengesTests.csproj</projectFile>
     <projectFile>DataStructures.Tests/DataStructures.Tests.csproj</projectFile>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4529b3f9-5b0f-40fa-b9fb-f4f1e9c92457" name="Default Changelist" comment="" />
+    <list default="true" id="4529b3f9-5b0f-40fa-b9fb-f4f1e9c92457" name="Default Changelist" comment="Init commint">
+      <change afterPath="$PROJECT_DIR$/Challenges/CanJumpChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/LRUCacheChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/LeftMostColumnWithOneChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/RangeBitwiseAndChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/SubarraySumChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/BinaryMatrix.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/LRUCache.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/LinkedList.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Education/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Education/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Education/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Education/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/BstFromPreorderChallenge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/BstFromPreorderChallenge.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/ref/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/ref/Challenges.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/ref/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/ref/Challenges.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/ref/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/ref/DataStructures.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/ref/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/ref/DataStructures.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Education.sln.DotSettings.user" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/8b/31e18c55/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0350163F-DA64-4960-871A-084E928B71DC/4a/582ab8d0/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -47,20 +102,29 @@
         <option value="$PROJECT_DIR$/Challenges/MinPathSumChallenge.cs" />
         <option value="$PROJECT_DIR$/Challenges/30DayChallenge/MinPathSumChallenge.cs" />
         <option value="$PROJECT_DIR$/Challenges/SearchChallenge.cs" />
-        <option value="$PROJECT_DIR$/Challenges/IChallenge.cs" />
         <option value="$PROJECT_DIR$/Challenges/BstFromPreorderChallenge.cs" />
+        <option value="$PROJECT_DIR$/DataStructures/BinaryMatrix.cs" />
+        <option value="$PROJECT_DIR$/Challenges/LeftMostColumnWithOneChallenge.cs" />
+        <option value="$PROJECT_DIR$/Challenges/SubarraySumChallenge.cs" />
+        <option value="$PROJECT_DIR$/Challenges/RangeBitwiseAndChallenge.cs" />
+        <option value="$PROJECT_DIR$/DataStructures/LRUCache.cs" />
+        <option value="$PROJECT_DIR$/Challenges/LRUCacheChallenge.cs" />
+        <option value="$PROJECT_DIR$/DataStructures/LinkedList.cs" />
+        <option value="$PROJECT_DIR$/Challenges/IChallenge.cs" />
+        <option value="$PROJECT_DIR$/Challenges/CanJumpChallenge.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1lBSYWSVwjbYlG9wjV7v8EQNBEk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3499006" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3001988" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3498043" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30039138" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -134,7 +198,16 @@
       <workItem from="1607069045840" duration="1260000" />
       <workItem from="1607497420296" duration="13956000" />
       <workItem from="1607542597139" duration="22151000" />
+      <workItem from="1607747390483" duration="34073000" />
     </task>
+    <task id="LOCAL-00001" summary="Init commint">
+      <created>1607747419731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607747419731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,94 +215,107 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Init commint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commint" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="447" height="464" key="DebuggerActiveHint" timestamp="1607606360353">
+    <state width="473" height="464" key="DebuggerActiveHint" timestamp="1608123301724">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="447" height="464" key="DebuggerActiveHint/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606360353" />
-    <state width="1037" height="452" key="GridCell.Tab.0.bottom" timestamp="1607606469558">
+    <state width="473" height="464" key="DebuggerActiveHint/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608123301724" />
+    <state width="2075" height="452" key="GridCell.Tab.0.bottom" timestamp="1608310319390">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.0.bottom/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469558" />
-    <state width="1037" height="452" key="GridCell.Tab.0.center" timestamp="1607606469558">
+    <state width="2075" height="452" key="GridCell.Tab.0.bottom/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319390" />
+    <state width="2075" height="452" key="GridCell.Tab.0.center" timestamp="1608310319389">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.0.center/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469558" />
-    <state width="1037" height="452" key="GridCell.Tab.0.left" timestamp="1607606469558">
+    <state width="2075" height="452" key="GridCell.Tab.0.center/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319389" />
+    <state width="2075" height="452" key="GridCell.Tab.0.left" timestamp="1608310319338">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.0.left/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469558" />
-    <state width="1037" height="452" key="GridCell.Tab.0.right" timestamp="1607606469558">
+    <state width="2075" height="452" key="GridCell.Tab.0.left/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319338" />
+    <state width="2075" height="452" key="GridCell.Tab.0.right" timestamp="1608310319389">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.0.right/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469558" />
-    <state width="1037" height="452" key="GridCell.Tab.1.bottom" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.0.right/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319389" />
+    <state width="2075" height="452" key="GridCell.Tab.1.bottom" timestamp="1608310319442">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.1.bottom/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.1.center" timestamp="1607606469558">
+    <state width="2075" height="452" key="GridCell.Tab.1.bottom/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319442" />
+    <state width="2075" height="452" key="GridCell.Tab.1.center" timestamp="1608310319442">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.1.center/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469558" />
-    <state width="1037" height="452" key="GridCell.Tab.1.left" timestamp="1607606469558">
+    <state width="2075" height="452" key="GridCell.Tab.1.center/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319442" />
+    <state width="2075" height="452" key="GridCell.Tab.1.left" timestamp="1608310319442">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.1.left/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469558" />
-    <state width="1037" height="452" key="GridCell.Tab.1.right" timestamp="1607606469558">
+    <state width="2075" height="452" key="GridCell.Tab.1.left/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319442" />
+    <state width="2075" height="452" key="GridCell.Tab.1.right" timestamp="1608310319442">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.1.right/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469558" />
-    <state width="1037" height="452" key="GridCell.Tab.2.bottom" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.1.right/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319442" />
+    <state width="2075" height="452" key="GridCell.Tab.2.bottom" timestamp="1608310320456">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.2.bottom/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.2.center" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.2.bottom/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319568" />
+    <state width="2075" height="452" key="GridCell.Tab.2.center" timestamp="1608310319568">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.2.center/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.2.left" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.2.center/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319568" />
+    <state width="2075" height="452" key="GridCell.Tab.2.left" timestamp="1608310319528">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.2.left/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.2.right" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.2.left/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319528" />
+    <state width="2075" height="452" key="GridCell.Tab.2.right" timestamp="1608310319568">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.2.right/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.3.bottom" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.2.right/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310319568" />
+    <state width="2075" height="452" key="GridCell.Tab.3.bottom" timestamp="1608310320601">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.3.bottom/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.3.center" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.3.bottom/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310320601" />
+    <state width="2075" height="452" key="GridCell.Tab.3.center" timestamp="1608310320557">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.3.center/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.3.left" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.3.center/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310320557" />
+    <state width="2075" height="452" key="GridCell.Tab.3.left" timestamp="1608310320557">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.3.left/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.3.right" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.3.left/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310320557" />
+    <state width="2075" height="452" key="GridCell.Tab.3.right" timestamp="1608310320601">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.3.right/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.4.bottom" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.3.right/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310320601" />
+    <state width="2075" height="452" key="GridCell.Tab.4.bottom" timestamp="1608310320695">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.4.bottom/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.4.center" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.4.bottom/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310320695" />
+    <state width="2075" height="452" key="GridCell.Tab.4.center" timestamp="1608310320695">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.4.center/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.4.left" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.4.center/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310320695" />
+    <state width="2075" height="452" key="GridCell.Tab.4.left" timestamp="1608310320694">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.4.left/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
-    <state width="1037" height="452" key="GridCell.Tab.4.right" timestamp="1607606469559">
+    <state width="2075" height="452" key="GridCell.Tab.4.left/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310320694" />
+    <state width="2075" height="452" key="GridCell.Tab.4.right" timestamp="1608310320695">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
-    <state width="1037" height="452" key="GridCell.Tab.4.right/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607606469559" />
+    <state width="2075" height="452" key="GridCell.Tab.4.right/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608310320695" />
     <state x="728" y="349" key="Rider.ProjectTemplateDialog.Size" timestamp="1607521414877">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
@@ -239,6 +325,10 @@
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
     <state x="967" y="319" key="RiderGenerateDialog/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607522318149" />
+    <state x="728" y="350" key="Vcs.Push.Dialog.v2" timestamp="1607747421193">
+      <screen x="76" y="0" width="2118" height="1234" />
+    </state>
+    <state x="728" y="350" key="Vcs.Push.Dialog.v2/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607747421193" />
     <state width="1066" height="624" key="XDebugger.FullValuePopup" timestamp="1607597595569">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
@@ -247,6 +337,14 @@
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
     <state x="1007" y="462" key="cloudConfig.SelfSettingsDialog/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1607542552623" />
+    <state x="182" y="332" width="1932" height="1048" key="dock-window-1" timestamp="1608056158892">
+      <screen x="76" y="0" width="2118" height="1234" />
+    </state>
+    <state x="182" y="332" width="1932" height="1048" key="dock-window-1/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608056158892" />
+    <state x="817" y="216" width="635" height="801" key="find.popup" timestamp="1608306570970">
+      <screen x="76" y="0" width="2118" height="1234" />
+    </state>
+    <state x="817" y="216" width="635" height="801" key="find.popup/76.0.2118.1234/3840.0.2194.1194@76.0.2118.1234" timestamp="1608306570970" />
     <state x="792" y="289" key="run.anything.popup" timestamp="1607585300948">
       <screen x="76" y="0" width="2118" height="1234" />
     </state>
@@ -274,27 +372,13 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/NumIslandsChallenge.cs</url>
           <line>40</line>
-          <properties documentPath="D:\git\Education\Challenges\NumIslandsChallenge.cs" initialLine="37">
-            <startOffsets>
-              <option value="1164" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1220" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\NumIslandsChallenge.cs" initialLine="37" />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/NumIslandsChallenge.cs</url>
           <line>63</line>
-          <properties documentPath="D:\git\Education\Challenges\NumIslandsChallenge.cs" initialLine="63">
-            <startOffsets>
-              <option value="1869" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1911" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\NumIslandsChallenge.cs" initialLine="63" />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
@@ -310,11 +394,176 @@
           </properties>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/BstFromPreorderChallenge.cs</url>
+          <line>39</line>
+          <properties documentPath="D:\git\Education\Challenges\BstFromPreorderChallenge.cs" initialLine="39">
+            <startOffsets>
+              <option value="1278" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1316" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/LeftMostColumnWithOneChallenge.cs</url>
+          <line>14</line>
+          <properties documentPath="D:\git\Education\Challenges\LeftMostColumnWithOneChallenge.cs" initialLine="14">
+            <startOffsets>
+              <option value="366" />
+            </startOffsets>
+            <endOffsets>
+              <option value="461" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/LeftMostColumnWithOneChallenge.cs</url>
+          <line>50</line>
+          <properties documentPath="D:\git\Education\Challenges\LeftMostColumnWithOneChallenge.cs" initialLine="50">
+            <startOffsets>
+              <option value="1445" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1488" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/SubarraySumChallenge.cs</url>
+          <line>46</line>
+          <properties documentPath="D:\git\Education\Challenges\SubarraySumChallenge.cs" initialLine="22">
+            <startOffsets>
+              <option value="1371" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1408" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/SubarraySumChallenge.cs</url>
+          <line>23</line>
+          <properties documentPath="D:\git\Education\Challenges\SubarraySumChallenge.cs" initialLine="23">
+            <startOffsets>
+              <option value="731" />
+            </startOffsets>
+            <endOffsets>
+              <option value="743" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/RangeBitwiseAndChallenge.cs</url>
+          <line>25</line>
+          <properties documentPath="D:\git\Education\Challenges\RangeBitwiseAndChallenge.cs" initialLine="25">
+            <startOffsets>
+              <option value="726" />
+            </startOffsets>
+            <endOffsets>
+              <option value="740" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/LRUCacheChallenge.cs</url>
+          <line>35</line>
+          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="35">
+            <startOffsets>
+              <option value="1093" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1126" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/LRUCacheChallenge.cs</url>
+          <line>28</line>
+          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="28">
+            <startOffsets>
+              <option value="820" />
+            </startOffsets>
+            <endOffsets>
+              <option value="856" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/LRUCacheChallenge.cs</url>
+          <line>17</line>
+          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="17">
+            <startOffsets>
+              <option value="487" />
+            </startOffsets>
+            <endOffsets>
+              <option value="506" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/LRUCacheChallenge.cs</url>
+          <line>13</line>
+          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="13">
+            <startOffsets>
+              <option value="326" />
+            </startOffsets>
+            <endOffsets>
+              <option value="362" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/LRUCacheChallenge.cs</url>
+          <line>48</line>
+          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="48">
+            <startOffsets>
+              <option value="1532" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1568" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/CanJumpChallenge.cs</url>
+          <line>25</line>
+          <properties documentPath="D:\git\Education\Challenges\CanJumpChallenge.cs" initialLine="21">
+            <startOffsets>
+              <option value="733" />
+            </startOffsets>
+            <endOffsets>
+              <option value="754" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#DataStructures.BinaryMatrix" memberName="_matrix" />
+        <PinnedItemInfo parentTag="Type#DataStructures.CustonListNode`1" memberName="Right" />
+        <PinnedItemInfo parentTag="Frame#ChallengesTests.LeftMostColumnWithOneChallenge.LeftMostColumnWithOneTests" memberName="matrix" />
+        <PinnedItemInfo parentTag="Type#DataStructures.LRUCache" memberName="_linkedList" />
+      </pinned-members>
+    </pin-to-top-manager>
     <watches-manager>
       <configuration name="RiderUnitTests">
         <watch expression="s.Su(-totalShift, totalShift)" language="C#" />
+        <watch expression="matrix[0,1]" language="C#" />
       </configuration>
     </watches-manager>
   </component>
