@@ -17,20 +17,20 @@ namespace ChallengesTests
                 8, 5, 1, 7, 10, 12
             });
             
-            Assert.Equal(8,result.Val);
-            Assert.Equal(5,result.Left.Val);
-            Assert.Equal(1,result.Left.Left.Val);
-            Assert.Equal(7,result.Left.Right.Val);
-            Assert.Null(result.Left.Right.Left);
-            Assert.Null(result.Left.Right.Right);
-            Assert.Null(result.Left.Left.Left);
-            Assert.Null(result.Left.Left.Right);
+            Assert.Equal(8,result.val);
+            Assert.Equal(5,result.left.val);
+            Assert.Equal(1,result.left.left.val);
+            Assert.Equal(7,result.left.right.val);
+            Assert.Null(result.left.right.left);
+            Assert.Null(result.left.right.right);
+            Assert.Null(result.left.left.left);
+            Assert.Null(result.left.left.right);
             
-            Assert.Equal(10,result.Right.Val);
-            Assert.Null(result.Right.Left);
-            Assert.Equal(12,result.Right.Right.Val);
-            Assert.Null(result.Right.Right.Right);
-            Assert.Null(result.Right.Right.Left);
+            Assert.Equal(10,result.right.val);
+            Assert.Null(result.right.left);
+            Assert.Equal(12,result.right.right.val);
+            Assert.Null(result.right.right.right);
+            Assert.Null(result.right.right.left);
         }
         
         public TreeNode BstFromPreorder(int[] preorder)
@@ -44,13 +44,13 @@ namespace ChallengesTests
                 var child = new TreeNode(preorder[i]);
 
                 TreeNode node = nodeStack.Peek();
-                while (nodeStack.Count > 0 && nodeStack.Peek().Val < child.Val)
+                while (nodeStack.Count > 0 && nodeStack.Peek().val < child.val)
                     node = nodeStack.Pop();
 
-                if (node.Val < child.Val)
-                    node.Right = child;
+                if (node.val < child.val)
+                    node.right = child;
                 else
-                    node.Left = child;
+                    node.left = child;
                 
                 nodeStack.Push(child);
             }

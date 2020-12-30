@@ -18,23 +18,35 @@
       <e p="Challenges" t="IncludeRecursive">
         <e p="30DayChallenge" t="Include">
           <e p="BackspaceCompareChallenge.cs" t="Include" />
+          <e p="BstFromPreorderChallenge.cs" t="Include" />
+          <e p="CanJumpChallenge.cs" t="Include" />
           <e p="CheckValidStringChallenge.cs" t="Include" />
           <e p="DiametrTreeChallenge.cs" t="Include" />
           <e p="FindMaxLengthChallenge.cs" t="Include" />
+          <e p="FirstUniqueChallenge.cs" t="Include" />
+          <e p="IsValidSequenceChallenge.cs" t="Include" />
           <e p="LastStoneWeightChallenge.cs" t="Include" />
+          <e p="LeftMostColumnWithOneChallenge.cs" t="Include" />
+          <e p="LongestCommonSubsequenceChallenge.cs" t="Include" />
+          <e p="LRUCacheChallenge.cs" t="Include" />
+          <e p="MaximalSquareChallenge.cs" t="Include" />
+          <e p="MaxPathSumChallenge.cs" t="Include" />
           <e p="MinPathSumChallenge.cs" t="Include" />
           <e p="MinStackChallenge.cs" t="Include" />
           <e p="NumIslandsChallenge.cs" t="Include" />
           <e p="PerformStringShiftsChallenge.cs" t="Include" />
           <e p="ProductExceptSelfChallenge.cs" t="Include" />
+          <e p="RangeBitwiseAndChallenge.cs" t="Include" />
+          <e p="SearchChallenge.cs" t="Include" />
+          <e p="SubarraySumChallenge.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
-        <e p="BstFromPreorderChallenge.cs" t="Include" />
-        <e p="CanJumpChallenge.cs" t="Include" />
         <e p="Challenges.csproj" t="IncludeRecursive" />
         <e p="IChallenge.cs" t="Include" />
-        <e p="LeftMostColumnWithOneChallenge.cs" t="Include" />
-        <e p="LRUCacheChallenge.cs" t="Include" />
+        <e p="MicrosoftQuestions" t="Include">
+          <e p="IsPalindromeChallenge.cs" t="Include" />
+          <e p="TwoSumChallenge.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp5.0" t="Include">
@@ -42,9 +54,6 @@
             </e>
           </e>
         </e>
-        <e p="RangeBitwiseAndChallenge.cs" t="Include" />
-        <e p="SearchChallenge.cs" t="Include" />
-        <e p="SubarraySumChallenge.cs" t="Include" />
       </e>
       <e p="ConsoleApp1" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -63,6 +72,7 @@
         <e p="BinaryMatrix.cs" t="Include" />
         <e p="CollectionExtensions.cs" t="Include" />
         <e p="DataStructures.csproj" t="IncludeRecursive" />
+        <e p="FirstUnique.cs" t="Include" />
         <e p="LinkedList.cs" t="Include" />
         <e p="LRUCache.cs" t="Include" />
         <e p="MinStack.cs" t="Include" />

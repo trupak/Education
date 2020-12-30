@@ -18,9 +18,6 @@ namespace ChallengesTests
             Assert.Equal(expected, CanJump(nums));
         }
         
-
-        
-        
         public bool CanJump(int[] nums)
         {
             if (nums.Length == 1)

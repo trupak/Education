@@ -14,22 +14,22 @@ namespace ChallengesTests
         {
             var node = new TreeNode
             {
-                Val = 1,
-                Left = new TreeNode
+                val = 1,
+                left = new TreeNode
                 {
-                    Val = 2,
-                    Left = new TreeNode
+                    val = 2,
+                    left = new TreeNode
                     {
-                        Val = 4
+                        val = 4
                     },
-                    Right = new TreeNode
+                    right = new TreeNode
                     {
-                        Val = 5
+                        val = 5
                     }
                 },
-                Right = new TreeNode
+                right = new TreeNode
                 {
-                    Val = 3
+                    val = 3
                 }
             };
             
@@ -46,8 +46,8 @@ namespace ChallengesTests
         private int Depth(TreeNode node) {
             // ReSharper disable once ConditionIsAlwaysTrueOrFalse
             if (node == null) return 0;
-            var l = Depth(node.Left);
-            var r = Depth(node.Right);
+            var l = Depth(node.left);
+            var r = Depth(node.right);
             _ans = Math.Max(_ans, l+r+1);
             return Math.Max(l, r) + 1;
         }
