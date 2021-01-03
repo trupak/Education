@@ -16,52 +16,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4529b3f9-5b0f-40fa-b9fb-f4f1e9c92457" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/FirstUniqueChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/IsValidSequenceChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/LongestCommonSubsequenceChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/MaxPathSumChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/MaximalSquareChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/IsPalindromeChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/TwoSumChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/FirstUnique.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/GroupAnagramsChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/LongestPalindromeChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/MyAtoiChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/ReverseStringChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/ReverseWordsChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/SetZeroesChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/TrapChallenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/ValidParenthesesChallenge.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Education/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Education/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Education/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Education/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/30DayChallenge/DiametrTreeChallenge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/DiametrTreeChallenge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/BstFromPreorderChallenge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/BstFromPreorderChallenge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/CanJumpChallenge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/CanJumpChallenge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/LRUCacheChallenge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/LRUCacheChallenge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/LeftMostColumnWithOneChallenge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/LeftMostColumnWithOneChallenge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/RangeBitwiseAndChallenge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/RangeBitwiseAndChallenge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/SearchChallenge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/SearchChallenge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/SubarraySumChallenge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/30DayChallenge/SubarraySumChallenge.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.runtimeconfig.dev.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/ref/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/ref/Challenges.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/ref/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/ref/Challenges.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.runtimeconfig.dev.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/TreeNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/TreeNode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/ref/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/ref/DataStructures.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/ref/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/ref/DataStructures.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Education.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Education.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,9 +109,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/8b/31e18c55/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/e4/640008f2/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0350163F-DA64-4960-871A-084E928B71DC/4a/582ab8d0/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -97,11 +123,20 @@
       <option value="$PROJECT_DIR$/Challenges/IsValidSequenceChallenge.cs" />
       <option value="$PROJECT_DIR$/Challenges/MicrosoftQuestions/TwoSumChallenge.cs" />
       <option value="$PROJECT_DIR$/Challenges/MicrosoftQuestions/IsPalindromeChallenge.cs" />
+      <option value="$PROJECT_DIR$/Challenges/MicrosoftQuestions/MyAtoiChallenge.cs" />
+      <option value="$PROJECT_DIR$/Challenges/MicrosoftQuestions/ReverseStringChallenge.cs" />
+      <option value="$PROJECT_DIR$/Challenges/MicrosoftQuestions/ReverseWordsChallenge.cs" />
+      <option value="$PROJECT_DIR$/Challenges/MicrosoftQuestions/ValidParenthesesChallenge.cs" />
+      <option value="$PROJECT_DIR$/Challenges/MicrosoftQuestions/LongestPalindromeChallenge.cs" />
+      <option value="$PROJECT_DIR$/Challenges/MicrosoftQuestions/GroupAnagramsChallenge.cs" />
+      <option value="$PROJECT_DIR$/Challenges/MicrosoftQuestions/TrapChallenge.cs" />
+      <option value="$PROJECT_DIR$/Challenges/MicrosoftQuestions/SetZeroesChallenge.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lBSYWSVwjbYlG9wjV7v8EQNBEk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -109,9 +144,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34963325" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34991708" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -187,6 +223,7 @@
       <workItem from="1607747390483" duration="34073000" />
       <workItem from="1608349594719" duration="86000" />
       <workItem from="1609308329660" duration="26184000" />
+      <workItem from="1609406216062" duration="22017000" />
     </task>
     <task id="LOCAL-00001" summary="Init commint">
       <created>1607747419731</created>
@@ -258,262 +295,226 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/SearchChallenge.cs</url>
           <line>18</line>
-          <properties documentPath="D:\git\Education\Challenges\SearchChallenge.cs" initialLine="19">
-            <startOffsets>
-              <option value="552" />
-            </startOffsets>
-            <endOffsets>
-              <option value="572" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\SearchChallenge.cs" initialLine="19" />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/BstFromPreorderChallenge.cs</url>
           <line>39</line>
-          <properties documentPath="D:\git\Education\Challenges\BstFromPreorderChallenge.cs" initialLine="39">
-            <startOffsets>
-              <option value="1278" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1316" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\BstFromPreorderChallenge.cs" initialLine="39" />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/LeftMostColumnWithOneChallenge.cs</url>
           <line>14</line>
-          <properties documentPath="D:\git\Education\Challenges\LeftMostColumnWithOneChallenge.cs" initialLine="14">
-            <startOffsets>
-              <option value="366" />
-            </startOffsets>
-            <endOffsets>
-              <option value="461" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\LeftMostColumnWithOneChallenge.cs" initialLine="14" />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/LeftMostColumnWithOneChallenge.cs</url>
           <line>50</line>
-          <properties documentPath="D:\git\Education\Challenges\LeftMostColumnWithOneChallenge.cs" initialLine="50">
-            <startOffsets>
-              <option value="1445" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1488" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\LeftMostColumnWithOneChallenge.cs" initialLine="50" />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/SubarraySumChallenge.cs</url>
           <line>46</line>
-          <properties documentPath="D:\git\Education\Challenges\SubarraySumChallenge.cs" initialLine="22">
-            <startOffsets>
-              <option value="1371" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1408" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\SubarraySumChallenge.cs" initialLine="22" />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/SubarraySumChallenge.cs</url>
           <line>23</line>
-          <properties documentPath="D:\git\Education\Challenges\SubarraySumChallenge.cs" initialLine="23">
-            <startOffsets>
-              <option value="731" />
-            </startOffsets>
-            <endOffsets>
-              <option value="743" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\SubarraySumChallenge.cs" initialLine="23" />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/RangeBitwiseAndChallenge.cs</url>
           <line>25</line>
-          <properties documentPath="D:\git\Education\Challenges\RangeBitwiseAndChallenge.cs" initialLine="25">
-            <startOffsets>
-              <option value="726" />
-            </startOffsets>
-            <endOffsets>
-              <option value="740" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\RangeBitwiseAndChallenge.cs" initialLine="25" />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/LRUCacheChallenge.cs</url>
           <line>35</line>
-          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="35">
-            <startOffsets>
-              <option value="1093" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1126" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="35" />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/LRUCacheChallenge.cs</url>
           <line>28</line>
-          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="28">
-            <startOffsets>
-              <option value="820" />
-            </startOffsets>
-            <endOffsets>
-              <option value="856" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="28" />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/LRUCacheChallenge.cs</url>
           <line>17</line>
-          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="17">
-            <startOffsets>
-              <option value="487" />
-            </startOffsets>
-            <endOffsets>
-              <option value="506" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="17" />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/LRUCacheChallenge.cs</url>
           <line>13</line>
-          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="13">
-            <startOffsets>
-              <option value="326" />
-            </startOffsets>
-            <endOffsets>
-              <option value="362" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="13" />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/LRUCacheChallenge.cs</url>
           <line>48</line>
-          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="48">
-            <startOffsets>
-              <option value="1532" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1568" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\LRUCacheChallenge.cs" initialLine="48" />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/CanJumpChallenge.cs</url>
           <line>22</line>
-          <properties documentPath="D:\git\Education\Challenges\CanJumpChallenge.cs" initialLine="21">
-            <startOffsets>
-              <option value="713" />
-            </startOffsets>
-            <endOffsets>
-              <option value="734" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\CanJumpChallenge.cs" initialLine="21" />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/MaximalSquareChallenge.cs</url>
           <line>25</line>
-          <properties documentPath="D:\git\Education\Challenges\MaximalSquareChallenge.cs" initialLine="25" containingFunctionPresentation="method 'MaximalSquare'">
-            <startOffsets>
-              <option value="776" />
-            </startOffsets>
-            <endOffsets>
-              <option value="836" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MaximalSquareChallenge.cs" initialLine="25" containingFunctionPresentation="method 'MaximalSquare'" />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/MaximalSquareChallenge.cs</url>
           <line>40</line>
-          <properties documentPath="D:\git\Education\Challenges\MaximalSquareChallenge.cs" initialLine="42" containingFunctionPresentation="method 'MaximalSquare'">
-            <startOffsets>
-              <option value="1386" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1411" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MaximalSquareChallenge.cs" initialLine="42" containingFunctionPresentation="method 'MaximalSquare'" />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/DataStructures/FirstUnique.cs</url>
           <line>21</line>
-          <properties documentPath="D:\git\Education\DataStructures\FirstUnique.cs" initialLine="21" containingFunctionPresentation="method 'ShowFirstUnique'">
-            <startOffsets>
-              <option value="593" />
-            </startOffsets>
-            <endOffsets>
-              <option value="603" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\DataStructures\FirstUnique.cs" initialLine="21" containingFunctionPresentation="method 'ShowFirstUnique'" />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/DataStructures/FirstUnique.cs</url>
           <line>30</line>
-          <properties documentPath="D:\git\Education\DataStructures\FirstUnique.cs" initialLine="30" containingFunctionPresentation="method 'Add'">
-            <startOffsets>
-              <option value="764" />
-            </startOffsets>
-            <endOffsets>
-              <option value="794" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\DataStructures\FirstUnique.cs" initialLine="30" containingFunctionPresentation="method 'Add'" />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/30DayChallenge/MaxPathSumChallenge.cs</url>
           <line>113</line>
-          <properties documentPath="D:\git\Education\Challenges\MaxPathSumChallenge.cs" initialLine="50" containingFunctionPresentation="method 'MaxPathSum'">
-            <startOffsets>
-              <option value="2697" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2714" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MaxPathSumChallenge.cs" initialLine="50" containingFunctionPresentation="method 'MaxPathSum'" />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/TwoSumChallenge.cs</url>
           <line>26</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\TwoSumChallenge.cs" initialLine="28" containingFunctionPresentation="method 'TwoSum'">
-            <startOffsets>
-              <option value="799" />
-            </startOffsets>
-            <endOffsets>
-              <option value="838" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\TwoSumChallenge.cs" initialLine="28" containingFunctionPresentation="method 'TwoSum'" />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/IsPalindromeChallenge.cs</url>
           <line>23</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\IsPalindromeChallenge.cs" initialLine="22" containingFunctionPresentation="method 'IsPalindrome'">
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\IsPalindromeChallenge.cs" initialLine="22" containingFunctionPresentation="method 'IsPalindrome'" />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/MyAtoiChallenge.cs</url>
+          <line>30</line>
+          <properties documentPath="C:\Job\Projects\GIT\Education\Challenges\MicrosoftQuestions\MyAtoiChallenge.cs" initialLine="27" containingFunctionPresentation="method 'MyAtoi'">
             <startOffsets>
-              <option value="687" />
+              <option value="905" />
             </startOffsets>
             <endOffsets>
-              <option value="706" />
+              <option value="1022" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="67" />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/MyAtoiChallenge.cs</url>
+          <line>29</line>
+          <properties documentPath="C:\Job\Projects\GIT\Education\Challenges\MicrosoftQuestions\MyAtoiChallenge.cs" initialLine="26" containingFunctionPresentation="method 'MyAtoi'">
+            <startOffsets>
+              <option value="861" />
+            </startOffsets>
+            <endOffsets>
+              <option value="892" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/ReverseWordsChallenge.cs</url>
+          <line>34</line>
+          <properties documentPath="C:\Job\Projects\GIT\Education\Challenges\MicrosoftQuestions\ReverseWordsChallenge.cs" initialLine="25" containingFunctionPresentation="method 'ReverseWords'">
+            <startOffsets>
+              <option value="1198" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1227" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/ReverseWordsChallenge.cs</url>
+          <line>76</line>
+          <properties documentPath="C:\Job\Projects\GIT\Education\Challenges\MicrosoftQuestions\ReverseWordsChallenge.cs" initialLine="64" containingFunctionPresentation="method 'ReverseWords'">
+            <startOffsets>
+              <option value="2213" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2245" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/LongestPalindromeChallenge.cs</url>
+          <line>34</line>
+          <properties documentPath="C:\Job\Projects\GIT\Education\Challenges\MicrosoftQuestions\LongestPalindromeChallenge.cs" initialLine="34" containingFunctionPresentation="method 'LongestPalindrome'">
+            <startOffsets>
+              <option value="1149" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1181" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/LongestPalindromeChallenge.cs</url>
+          <line>26</line>
+          <properties documentPath="C:\Job\Projects\GIT\Education\Challenges\MicrosoftQuestions\LongestPalindromeChallenge.cs" initialLine="26" containingFunctionPresentation="method 'LongestPalindrome'">
+            <startOffsets>
+              <option value="844" />
+            </startOffsets>
+            <endOffsets>
+              <option value="883" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/TrapChallenge.cs</url>
+          <line>60</line>
+          <properties documentPath="C:\Job\Projects\GIT\Education\Challenges\MicrosoftQuestions\TrapChallenge.cs" initialLine="28" containingFunctionPresentation="method 'Trap'">
+            <startOffsets>
+              <option value="1672" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1715" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/SetZeroesChallenge.cs</url>
+          <line>59</line>
+          <properties documentPath="C:\Job\Projects\GIT\Education\Challenges\MicrosoftQuestions\SetZeroesChallenge.cs" initialLine="59" containingFunctionPresentation="method 'SetZeroes'">
+            <startOffsets>
+              <option value="1845" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1862" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -529,6 +530,7 @@
       <configuration name="RiderUnitTests">
         <watch expression="s.Su(-totalShift, totalShift)" language="C#" />
         <watch expression="matrix[0,1]" language="C#" />
+        <watch expression="new string(k)" language="C#" />
       </configuration>
     </watches-manager>
   </component>
