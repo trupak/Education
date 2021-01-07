@@ -32,7 +32,10 @@
         <e p="IChallenge.cs" t="Include" />
         <e p="MicrosoftQuestions" t="Include">
           <e p="GroupAnagramsChallenge.cs" t="Include" />
+          <e p="InorderTraversalChallenge.cs" t="Include" />
           <e p="IsPalindromeChallenge.cs" t="Include" />
+          <e p="IsValidBSTChallenge.cs" t="Include" />
+          <e p="LevelOrderChallenge.cs" t="Include" />
           <e p="LongestPalindromeChallenge.cs" t="Include" />
           <e p="MyAtoiChallenge.cs" t="Include" />
           <e p="ReverseStringChallenge.cs" t="Include" />
@@ -41,6 +44,7 @@
           <e p="TrapChallenge.cs" t="Include" />
           <e p="TwoSumChallenge.cs" t="Include" />
           <e p="ValidParenthesesChallenge.cs" t="Include" />
+          <e p="ZigzagLevelOrderChallenge.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
