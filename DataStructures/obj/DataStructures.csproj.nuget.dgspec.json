@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\DataStructures.csproj": {}
+    "D:\\git\\Education\\DataStructures\\DataStructures.csproj": {}
   },
   "projects": {
-    "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\DataStructures.csproj": {
+    "D:\\git\\Education\\DataStructures\\DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\DataStructures.csproj",
+        "projectUniqueName": "D:\\git\\Education\\DataStructures\\DataStructures.csproj",
         "projectName": "DataStructures",
-        "projectPath": "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\DataStructures.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\obj\\",
+        "projectPath": "D:\\git\\Education\\DataStructures\\DataStructures.csproj",
+        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\Education\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\work\\_packagesSource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

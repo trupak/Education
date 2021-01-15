@@ -35,57 +35,41 @@ namespace ChallengesTests.MicrosoftQuestions
                 return new List<IList<int>>();
 
             var result = new List<IList<int>>();
-            var linkedList = new LinkedList<TreeNode>();
-            linkedList.AddFirst(root);
+            var linkedList = new Stack<TreeNode>();
+            linkedList.Push(root);
             var isNextLineLeft = false;
             while (linkedList.Count > 0)
             {
                 var r = new List<int>();
+                var tmpStack = new Queue<TreeNode>();
                 var size = linkedList.Count;
-                var startNode = isNextLineLeft ? linkedList.First : linkedList.Last;
                 for (int i = 0; i < size; i++)
                 {
                     if (isNextLineLeft)
                     {
-                        var node = linkedList.First.Value;
-                        linkedList.RemoveFirst();
-                        if (r.Count == 0)
-                        {
-                            r.Add(node.val);
-                        }
-                        else
-                        {
-                            r.Insert(0,node.val);
-                        }
-                        if (node.left != null)
-                            linkedList.AddLast(node.left);
-                        
+                        var node = linkedList.Pop();
+                        r.Add(node.val);
                         if (node.right != null)
-                            linkedList.AddLast(node.right);
+                            tmpStack.Enqueue(node.right);
+                        
+                        if (node.left != null)
+                            tmpStack.Enqueue(node.left);
                     }
                     else
                     {
-                        var node = startNode.Value;
-                        if (r.Count == 0)
-                        {
-                            r.Add(node.val);
-                        }
-                        else
-                        {
-                            r.Insert(0,node.val);
-                        }
-                        
+                        var node = linkedList.Pop();
+                        r.Add(node.val);
                         if (node.left != null)
-                            linkedList.AddLast(node.left);
-                    
+                            tmpStack.Enqueue(node.left);
+                        
                         if (node.right != null)
-                            linkedList.AddLast(node.right);
-                        var tmp = startNode.Previous;
-                        linkedList.Remove(startNode);
-                        startNode = tmp;
+                            tmpStack.Enqueue(node.right);
                     }
                         
                 }
+
+                foreach (var treeNode in tmpStack)
+                    linkedList.Push(treeNode);
 
                 isNextLineLeft = !isNextLineLeft;
                 result.Add(r);

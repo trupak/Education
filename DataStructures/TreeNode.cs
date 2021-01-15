@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 
 namespace DataStructures
 {
@@ -49,15 +50,47 @@ namespace DataStructures
             
         }
 
-        public TreeNode FromInOrder(int?[] inOrder, int startIndex)
+        public TreeNode Search(int value)
         {
-            if (inOrder[startIndex] == null)
-                return null;
+            return Search(this, value);
+        }
 
-            return new TreeNode(inOrder[startIndex].Value)
+        public List<int> ToPreOrder()
+        {
+            var queue = new Queue<TreeNode>();
+            var result = new List<int>();
+            queue.Enqueue(this);
+            while (queue.Count > 0)
             {
-                left = FromInOrder(inOrder, startIndex + 1)
-            };
+                var node = queue.Dequeue();
+                result.Add(node.val);
+                if (node.left != null)
+                    queue.Enqueue(node.left);
+                else if (node.right != null)
+                    result.Add(-1);
+                
+                if (node.right != null)
+                    queue.Enqueue(node.right);
+                else if (node.left != null)
+                    result.Add(-1);
+            }
+
+            return result;
+        }
+
+        public static TreeNode Search(TreeNode node, int value)
+        {
+            if (node == null)
+                return null;
+            
+            if (node.val == value)
+                return node;
+
+            var left = Search(node.left, value);
+            if (left != null)
+                return left;
+            var right = Search(node.right, value);
+            return right;
         }
     }
 }
