@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Denis\.nuget\packages\microsoft.net.test.sdk\16.7.1\build\netcoreapp2.1" t="Include">
-      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
-    </e>
-    <e p="C:\Users\Denis\.nuget\packages\microsoft.testplatform.testhost\16.7.1\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
-    <e p="C:\Users\Denis\.nuget\packages\microsoft.testplatform.testhost\16.7.1\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
-    <e p="C:\Users\Denis\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
-    <e p="C:\Users\Denis\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll" t="Include" />
-    <e p="C:\Users\Denis\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
-    <e p="C:\Users\Denis\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Denis\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Education.687387902.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Denis\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
-    <e p="C:\Users\Denis\AppData\Roaming\JetBrains\Rider2020.3\extensions" t="IncludeRecursive" />
-    <e p="C:\Users\Denis\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
-    <e p="D:\git\Education" t="IncludeFlat">
+    <e p="C:\Job\Projects\git\Education" t="IncludeFlat">
       <e p="Challenges" t="IncludeRecursive">
         <e p="30DayChallenge" t="Include">
           <e p="BackspaceCompareChallenge.cs" t="Include" />
@@ -49,6 +36,8 @@
           <e p="CloneGraphChallenge.cs" t="Include" />
           <e p="ConnectChallenge.cs" t="Include" />
           <e p="CopyRandomListChallenge.cs" t="Include" />
+          <e p="FindMedianSortedArraysChallenge.cs" t="Include" />
+          <e p="FindMinChallenge.cs" t="Include" />
           <e p="FindWordsChallenge.cs" t="Include" />
           <e p="GetIntersectionNodeChallenge.cs" t="Include" />
           <e p="GroupAnagramsChallenge.cs" t="Include" />
@@ -60,6 +49,7 @@
           <e p="LevelOrderChallenge.cs" t="Include" />
           <e p="LongestPalindromeChallenge.cs" t="Include" />
           <e p="LowestCommonAncestorChallenge.cs" t="Include" />
+          <e p="MergeChallenge.cs" t="Include" />
           <e p="MergeTwoListsChallenge.cs" t="Include" />
           <e p="MyAtoiChallenge.cs" t="Include" />
           <e p="RemoveDuplicatesChallenge.cs" t="Include" />
@@ -67,7 +57,11 @@
           <e p="ReverseStringChallenge.cs" t="Include" />
           <e p="ReverseWordsChallenge.cs" t="Include" />
           <e p="RotateImageChallenge.cs" t="Include" />
+          <e p="SearchChallenge.cs" t="Include" />
+          <e p="SearchMatrix2Challenge.cs" t="Include" />
+          <e p="SearchMatrixChallenge.cs" t="Include" />
           <e p="SetZeroesChallenge.cs" t="Include" />
+          <e p="SortColorsChallenge.cs" t="Include" />
           <e p="SpiralOrderChallenge.cs" t="Include" />
           <e p="TrapChallenge.cs" t="Include" />
           <e p="TwoSumChallenge.cs" t="Include" />
@@ -95,6 +89,7 @@
         <e p="Program.cs" t="Include" />
       </e>
       <e p="DataStructures" t="IncludeRecursive">
+        <e p="ArrayExtensions.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="BinaryMatrix.cs" t="Include" />
         <e p="CollectionExtensions.cs" t="Include" />
@@ -106,7 +101,7 @@
         <e p="MinStack.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="net5.0" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="DataStructures.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -133,5 +128,15 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="TestApps" t="Include" />
     </e>
+    <e p="C:\Users\Admin\.nuget\packages\microsoft.net.test.sdk\16.7.1\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Admin\.nuget\packages\microsoft.testplatform.testhost\16.7.1\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\Admin\.nuget\packages\microsoft.testplatform.testhost\16.7.1\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\Admin\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Admin\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Admin\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Education.-793439456.00" t="ExcludeRecursive" />
   </component>
 </project>
