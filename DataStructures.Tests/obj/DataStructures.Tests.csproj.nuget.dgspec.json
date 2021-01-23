@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\Education\\DataStructures.Tests\\DataStructures.Tests.csproj": {}
+    "C:\\Job\\Projects\\GIT\\Education\\DataStructures.Tests\\DataStructures.Tests.csproj": {}
   },
   "projects": {
-    "D:\\git\\Education\\DataStructures.Tests\\DataStructures.Tests.csproj": {
+    "C:\\Job\\Projects\\GIT\\Education\\DataStructures.Tests\\DataStructures.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\Education\\DataStructures.Tests\\DataStructures.Tests.csproj",
+        "projectUniqueName": "C:\\Job\\Projects\\GIT\\Education\\DataStructures.Tests\\DataStructures.Tests.csproj",
         "projectName": "DataStructures.Tests",
-        "projectPath": "D:\\git\\Education\\DataStructures.Tests\\DataStructures.Tests.csproj",
-        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\Education\\DataStructures.Tests\\obj\\",
+        "projectPath": "C:\\Job\\Projects\\GIT\\Education\\DataStructures.Tests\\DataStructures.Tests.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Job\\Projects\\GIT\\Education\\DataStructures.Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\work\\_packagesSource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\git\\Education\\DataStructures\\DataStructures.csproj": {
-                "projectPath": "D:\\git\\Education\\DataStructures\\DataStructures.csproj"
+              "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\DataStructures.csproj": {
+                "projectPath": "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\DataStructures.csproj"
               }
             }
           }
@@ -88,33 +84,29 @@
         }
       }
     },
-    "D:\\git\\Education\\DataStructures\\DataStructures.csproj": {
+    "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\Education\\DataStructures\\DataStructures.csproj",
+        "projectUniqueName": "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\DataStructures.csproj",
         "projectName": "DataStructures",
-        "projectPath": "D:\\git\\Education\\DataStructures\\DataStructures.csproj",
-        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\Education\\DataStructures\\obj\\",
+        "projectPath": "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\DataStructures.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Job\\Projects\\GIT\\Education\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\work\\_packagesSource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -125,8 +117,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",

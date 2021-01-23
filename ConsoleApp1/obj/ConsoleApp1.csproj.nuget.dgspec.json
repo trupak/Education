@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\Education\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Job\\Projects\\GIT\\Education\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\git\\Education\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Job\\Projects\\GIT\\Education\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\Education\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Job\\Projects\\GIT\\Education\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\git\\Education\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\Education\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Job\\Projects\\GIT\\Education\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Job\\Projects\\GIT\\Education\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\work\\_packagesSource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
