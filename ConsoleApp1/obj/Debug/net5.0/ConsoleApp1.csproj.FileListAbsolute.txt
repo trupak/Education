@@ -1,0 +1,16 @@
+D:\git\Education\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\git\Education\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\git\Education\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\git\Education\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\git\Education\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\git\Education\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\git\Education\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\git\Education\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\git\Education\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Education\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\git\Education\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\git\Education\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\git\Education\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\git\Education\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\git\Education\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\git\Education\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

@@ -15,93 +15,32 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4529b3f9-5b0f-40fa-b9fb-f4f1e9c92457" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/AddTwoNumbersChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/BuildTreeChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/CloneGraphChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/ConnectChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/CopyRandomListChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/FindWordsChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/GetIntersectionNodeChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/HasCycleChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/IsMatchChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/LetterCombinationsChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/LowestCommonAncestorChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/MergeTwoListsChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/RemoveDuplicatesChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/ReverseListChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/RotateImageChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/SpiralOrderChallenge.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/ListNode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Education/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Education/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="4529b3f9-5b0f-40fa-b9fb-f4f1e9c92457" name="Default Changelist" comment="5">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Education/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Education/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/IsValidBSTChallenge.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/ZigzagLevelOrderChallenge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/MicrosoftQuestions/ZigzagLevelOrderChallenge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/DataStructures.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/ref/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/ref/Challenges.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/ref/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/ref/Challenges.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.Tests.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/bin/Debug/net5.0/DataStructures.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/TreeNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/TreeNode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/DataStructures.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/ref/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/bin/Debug/net5.0/ref/DataStructures.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/ref/DataStructures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/ref/DataStructures.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Education.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,11 +59,17 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/LetterCombinationsChallenge.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Challenges/30DayChallenge/BackspaceCompareChallenge.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0350163F-DA64-4960-871A-084E928B71DC/4a/582ab8d0/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/InorderTraversalChallenge.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/8b/31e18c55/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/RemoveDuplicatesChallenge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/CloneGraphChallenge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/FindWordsChallenge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/IsMatchChallenge.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/a6/a93ef5e6/ExecutionTimer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C80B499D-ADA7-49E0-A8EE-7A9B1744160B/40/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C80B499D-ADA7-49E0-A8EE-7A9B1744160B/40/String.Manipulation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/e4/640008f2/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -256,7 +201,7 @@
       <workItem from="1609406216062" duration="22017000" />
       <workItem from="1610027070099" duration="12891000" />
       <workItem from="1610300986242" duration="7427000" />
-      <workItem from="1610694265250" duration="19163000" />
+      <workItem from="1610694265250" duration="19838000" />
     </task>
     <task id="LOCAL-00001" summary="Init commint">
       <created>1607747419731</created>
@@ -272,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608349657843</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="5">
+      <created>1610735933926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610735933926</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +258,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Init commint" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
