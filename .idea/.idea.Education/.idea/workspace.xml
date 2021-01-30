@@ -15,32 +15,45 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4529b3f9-5b0f-40fa-b9fb-f4f1e9c92457" name="Default Changelist" comment="5">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Education/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Education/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4529b3f9-5b0f-40fa-b9fb-f4f1e9c92457" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/Challenges.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/ref/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/bin/Debug/netcoreapp5.0/ref/Challenges.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Challenges.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/Challenges.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/ref/Challenges.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/Debug/netcoreapp5.0/ref/Challenges.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Challenges/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/DataStructures.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/Debug/net5.0/DataStructures.Tests.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.Tests/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/net5.0/DataStructures.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/DataStructures.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructures/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Education.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Education.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,17 +73,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/LetterCombinationsChallenge.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Challenges/30DayChallenge/BackspaceCompareChallenge.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0350163F-DA64-4960-871A-084E928B71DC/4a/582ab8d0/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C80B499D-ADA7-49E0-A8EE-7A9B1744160B/1A/Array.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/InorderTraversalChallenge.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/8b/31e18c55/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/RemoveDuplicatesChallenge.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/CloneGraphChallenge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C80B499D-ADA7-49E0-A8EE-7A9B1744160B/cc/a7dad374/IArraySortHelper`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/54/3565395b/ArraySortHelper`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/FindWordsChallenge.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/IsMatchChallenge.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/a6/a93ef5e6/ExecutionTimer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C80B499D-ADA7-49E0-A8EE-7A9B1744160B/40/String.Manipulation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/e4/640008f2/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/CloneGraphChallenge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/RemoveDuplicatesChallenge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/IsMatchChallenge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Challenges/30DayChallenge/BackspaceCompareChallenge.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -477,263 +489,121 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/ZigzagLevelOrderChallenge.cs</url>
           <line>40</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ZigzagLevelOrderChallenge.cs" initialLine="40" containingFunctionPresentation="method 'ZigzagLevelOrder'">
-            <startOffsets>
-              <option value="1430" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1458" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ZigzagLevelOrderChallenge.cs" initialLine="40" containingFunctionPresentation="method 'ZigzagLevelOrder'" />
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/ConnectChallenge.cs</url>
           <line>51</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ConnectChallenge.cs" initialLine="51" containingFunctionPresentation="method 'ConnectTest'">
-            <startOffsets>
-              <option value="1327" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1356" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ConnectChallenge.cs" initialLine="51" containingFunctionPresentation="method 'ConnectTest'" />
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/ConnectChallenge.cs</url>
           <line>239</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ConnectChallenge.cs" initialLine="169" containingFunctionPresentation="method 'Connect'">
-            <startOffsets>
-              <option value="6684" />
-            </startOffsets>
-            <endOffsets>
-              <option value="6703" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ConnectChallenge.cs" initialLine="169" containingFunctionPresentation="method 'Connect'" />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/ConnectChallenge.cs</url>
           <line>251</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ConnectChallenge.cs" initialLine="181" containingFunctionPresentation="method 'Connect'">
-            <startOffsets>
-              <option value="7100" />
-            </startOffsets>
-            <endOffsets>
-              <option value="7125" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ConnectChallenge.cs" initialLine="181" containingFunctionPresentation="method 'Connect'" />
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/ConnectChallenge.cs</url>
           <line>165</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ConnectChallenge.cs" initialLine="165" containingFunctionPresentation="method 'ConnectTest5'">
-            <startOffsets>
-              <option value="4536" />
-            </startOffsets>
-            <endOffsets>
-              <option value="4565" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ConnectChallenge.cs" initialLine="165" containingFunctionPresentation="method 'ConnectTest5'" />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/ConnectChallenge.cs</url>
           <line>200</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ConnectChallenge.cs" initialLine="200" containingFunctionPresentation="method 'ConnectTest6'">
-            <startOffsets>
-              <option value="5555" />
-            </startOffsets>
-            <endOffsets>
-              <option value="5584" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\ConnectChallenge.cs" initialLine="200" containingFunctionPresentation="method 'ConnectTest6'" />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/LowestCommonAncestorChallenge.cs</url>
           <line>38</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\LowestCommonAncestorChallenge.cs" initialLine="38" containingFunctionPresentation="method 'LowestCommonAncestorTest'">
-            <startOffsets>
-              <option value="1537" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1560" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\LowestCommonAncestorChallenge.cs" initialLine="38" containingFunctionPresentation="method 'LowestCommonAncestorTest'" />
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/LowestCommonAncestorChallenge.cs</url>
           <line>46</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\LowestCommonAncestorChallenge.cs" initialLine="46" containingFunctionPresentation="method 'LowestCommonAncestor'">
-            <startOffsets>
-              <option value="1765" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1785" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\LowestCommonAncestorChallenge.cs" initialLine="46" containingFunctionPresentation="method 'LowestCommonAncestor'" />
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/LowestCommonAncestorChallenge.cs</url>
           <line>59</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\LowestCommonAncestorChallenge.cs" initialLine="59" containingFunctionPresentation="method 'recurse'">
-            <startOffsets>
-              <option value="2162" />
-              <option value="2191" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2190" />
-              <option value="2192" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\LowestCommonAncestorChallenge.cs" initialLine="59" containingFunctionPresentation="method 'recurse'" />
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/BuildTreeChallenge.cs</url>
           <line>17</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\BuildTreeChallenge.cs" initialLine="16" containingFunctionPresentation="method 'BuildTreeTests'">
-            <startOffsets>
-              <option value="612" />
-            </startOffsets>
-            <endOffsets>
-              <option value="653" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\BuildTreeChallenge.cs" initialLine="16" containingFunctionPresentation="method 'BuildTreeTests'" />
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/CloneGraphChallenge.cs</url>
           <line>67</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\CloneGraphChallenge.cs" initialLine="67" containingFunctionPresentation="method 'CloneGraphTest'">
-            <startOffsets>
-              <option value="2179" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2219" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\CloneGraphChallenge.cs" initialLine="67" containingFunctionPresentation="method 'CloneGraphTest'" />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/CloneGraphChallenge.cs</url>
           <line>88</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\CloneGraphChallenge.cs" initialLine="84" containingFunctionPresentation="method 'CloneGraph'">
-            <startOffsets>
-              <option value="2909" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2925" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\CloneGraphChallenge.cs" initialLine="84" containingFunctionPresentation="method 'CloneGraph'" />
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/CloneGraphChallenge.cs</url>
           <line>40</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\CloneGraphChallenge.cs" initialLine="40" containingFunctionPresentation="method 'AddNode'">
-            <startOffsets>
-              <option value="1134" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1150" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\CloneGraphChallenge.cs" initialLine="40" containingFunctionPresentation="method 'AddNode'" />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/CloneGraphChallenge.cs</url>
           <line>114</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\CloneGraphChallenge.cs" initialLine="110" containingFunctionPresentation="method 'AddNode'">
-            <startOffsets>
-              <option value="3699" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3747" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\CloneGraphChallenge.cs" initialLine="110" containingFunctionPresentation="method 'AddNode'" />
           <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/LetterCombinationsChallenge.cs</url>
           <line>41</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\LetterCombinationsChallenge.cs" initialLine="39" containingFunctionPresentation="method 'LetterCombinations'">
-            <startOffsets>
-              <option value="1623" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1637" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\LetterCombinationsChallenge.cs" initialLine="39" containingFunctionPresentation="method 'LetterCombinations'" />
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/LetterCombinationsChallenge.cs</url>
           <line>62</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\LetterCombinationsChallenge.cs" initialLine="58" containingFunctionPresentation="method 'AddResults'">
-            <startOffsets>
-              <option value="2176" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2191" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\LetterCombinationsChallenge.cs" initialLine="58" containingFunctionPresentation="method 'AddResults'" />
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/FindWordsChallenge.cs</url>
           <line>99</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\FindWordsChallenge.cs" initialLine="86" containingFunctionPresentation="method 'FindWord'">
-            <startOffsets>
-              <option value="2965" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2983" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\FindWordsChallenge.cs" initialLine="86" containingFunctionPresentation="method 'FindWord'" />
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/FindWordsChallenge.cs</url>
           <line>112</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\FindWordsChallenge.cs" initialLine="99" containingFunctionPresentation="method 'FindWord'">
-            <startOffsets>
-              <option value="3288" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3358" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\FindWordsChallenge.cs" initialLine="99" containingFunctionPresentation="method 'FindWord'" />
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/FindWordsChallenge.cs</url>
           <line>123</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\FindWordsChallenge.cs" initialLine="108" containingFunctionPresentation="method 'FindWord'">
-            <startOffsets>
-              <option value="3628" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3646" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\FindWordsChallenge.cs" initialLine="108" containingFunctionPresentation="method 'FindWord'" />
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Challenges/MicrosoftQuestions/FindWordsChallenge.cs</url>
           <line>144</line>
-          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\FindWordsChallenge.cs" initialLine="127" containingFunctionPresentation="method 'FindWord'">
-            <startOffsets>
-              <option value="4419" />
-            </startOffsets>
-            <endOffsets>
-              <option value="4475" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\git\Education\Challenges\MicrosoftQuestions\FindWordsChallenge.cs" initialLine="127" containingFunctionPresentation="method 'FindWord'" />
           <option name="timeStamp" value="126" />
         </line-breakpoint>
       </breakpoints>
