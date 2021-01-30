@@ -1,9 +1,10 @@
 *.cache
-*/obj/
+**/obj
 *.dll
 *.pdb
-*/.vs
-*/.idea/
-*/bin/Debug
-*/bin/Release
+**/.vs
+**/.idea
+**/bin/Debug
+**/bin/Release
 *.exe
+*.info
