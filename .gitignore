@@ -1,5 +1,6 @@
 *.cache
 **/obj
+**/obj2
 *.dll
 *.pdb
 **/.vs
