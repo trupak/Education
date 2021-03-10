@@ -1,5 +1,4 @@
 using System;
-using System.Collections.Generic;
 using Xunit;
 
 namespace ChallengesTests.MicrosoftQuestions
@@ -10,11 +9,11 @@ namespace ChallengesTests.MicrosoftQuestions
             => "https://leetcode.com/explore/interview/card/microsoft/30/array-and-strings/211/";
 
         [Theory]
-        [InlineData(new int[]
+        [InlineData(new[]
         {
             0,1,0,2,1,0,1,3,2,1,2,1
         }, 6)]
-        [InlineData(new int[]
+        [InlineData(new[]
         {
             4,2,0,3,2,5
         }, 9)]
@@ -27,27 +26,27 @@ namespace ChallengesTests.MicrosoftQuestions
         {
             int left = 0, right = height.Length - 1;
             int ans = 0;
-            int left_max = 0, right_max = 0;
+            int leftMax = 0, rightMax = 0;
             while (left < right) {
                 if (height[left] < height[right]) {
-                    if (height[left] >= left_max)
+                    if (height[left] >= leftMax)
                     {
-                        left_max = height[left];
+                        leftMax = height[left];
                     }
                     else
                     {
-                        ans += left_max - height[left];
+                        ans += leftMax - height[left];
                     }
                     ++left;
                 }
                 else {
-                    if (height[right] >= right_max)
+                    if (height[right] >= rightMax)
                     {
-                        right_max = height[right];
+                        rightMax = height[right];
                     }
                     else
                     {
-                        ans += right_max - height[right];
+                        ans += rightMax - height[right];
                     }
                     --right;
                 }

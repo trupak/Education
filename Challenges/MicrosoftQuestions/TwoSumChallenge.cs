@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Diagnostics;
 using Xunit;
 
 namespace ChallengesTests.MicrosoftQuestions
@@ -9,12 +10,13 @@ namespace ChallengesTests.MicrosoftQuestions
             => "https://leetcode.com/explore/interview/card/microsoft/30/array-and-strings/173/";
 
         [Theory]
-        [InlineData(new [] {2,7,11,5}, 9, new[] {0,1})]
-        [InlineData(new [] {0,4,3,0}, 0, new[] {0,3})]
-        public void TwoSumTests(int[] nums, int target, int[] expected)
+        [InlineData(new [] {2,7,11,5}, 9)]
+        [InlineData(new [] {0,4,3,0}, 0)]
+        public void TwoSumTests(int[] nums, int target)
         {
             var result = TwoSum(nums, target);
             var sum = 0;
+            Debug.Assert(result != null, nameof(result) + " != null");
             for (int i = 0; i < result.Length; i++)
             {
                 sum += nums[result[i]];
@@ -22,7 +24,7 @@ namespace ChallengesTests.MicrosoftQuestions
             Assert.Equal(sum, target);
         }
 
-        public int[] TwoSum(int[] nums, int target)
+        public int[]? TwoSum(int[] nums, int target)
         {
             var cache = new Dictionary<int, int>();
 

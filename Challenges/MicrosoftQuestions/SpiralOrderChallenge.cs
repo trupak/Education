@@ -11,11 +11,11 @@ namespace ChallengesTests.MicrosoftQuestions
         [Fact]
         public void SpiralOrderTests()
         {
-            var matrix = new int[][]
+            var matrix = new[]
             {
-                new int[] {1, 2, 3},
-                new int[] {4, 5, 6},
-                new int[] {7, 8, 9}
+                new[] {1, 2, 3},
+                new[] {4, 5, 6},
+                new[] {7, 8, 9}
             };
             var result = SpiralOrder(matrix);
             var expected = new List<int> {1, 2, 3, 6, 9, 8, 7, 4, 5};
@@ -25,11 +25,11 @@ namespace ChallengesTests.MicrosoftQuestions
                 Assert.Equal(expected[i], result[i]);
             }
 
-            matrix = new int[][]
+            matrix = new[]
             {
-                new int[] {1, 2, 3, 4},
-                new int[] {5, 6, 7, 8},
-                new int[] {9, 10, 11, 12}
+                new[] {1, 2, 3, 4},
+                new[] {5, 6, 7, 8},
+                new[] {9, 10, 11, 12}
             };
             result = SpiralOrder(matrix);
             expected = new List<int> {1, 2, 3, 4, 8, 12, 11, 10, 9, 5, 6, 7};

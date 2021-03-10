@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using DataStructures;
 using Xunit;
@@ -11,14 +12,14 @@ namespace ChallengesTests.MicrosoftQuestions
             => "https://leetcode.com/explore/interview/card/microsoft/32/linked-list/175/";
 
         [Theory]
-        [InlineData(new int[] {1,2,4}, new int[] {1,3,4}, new int[] {1,1,2,3,4,4})]
+        [InlineData(new[] {1,2,4}, new[] {1,3,4}, new[] {1,1,2,3,4,4})]
         [InlineData(new int[] {}, new int[] {}, new int[] {})]
-        [InlineData(new int[] {}, new int[] {0}, new int[] {0})]
-        public void MergeTwoListsTests(int[] l1, int[] l2, int[] expected)
+        [InlineData(new int[] {}, new[] {0}, new[] {0})]
+        public void MergeTwoListsTests(int[]? l1, int[]? l2, int[] expected)
         {
             var result = MergeTwoLists(l1 == null || l1.Length == 0 ?
-                null : new ListNode(l1), l2 == null || l2.Length == 0 ? null : 
-                new ListNode(l2));
+                null : new ListNode(l1), (l2 == null || l2.Length == 0 ? null : 
+                new ListNode(l2))!);
             
             var merged = result != null ? result.ToList() : new List<int>();
 
@@ -32,16 +33,16 @@ namespace ChallengesTests.MicrosoftQuestions
         [Fact]
         public void MergeKListsTests()
         {
-            var result = MergeKLists(new ListNode[]
+            var result = MergeKLists(new[]
             {
-                new ListNode(new int[] {1, 4, 5}),
-                new ListNode(new int[] {1, 3, 4}),
-                new ListNode(new int[] {2, 6})
+                new ListNode(new[] {1, 4, 5}),
+                new ListNode(new[] {1, 3, 4}),
+                new ListNode(new[] {2, 6})
             });
 
             var merged = result != null ? result.ToList() : new List<int>();
             
-            var expected = new int[] {1, 1, 2, 3, 4, 4, 5, 6};
+            var expected = new[] {1, 1, 2, 3, 4, 4, 5, 6};
             
             Assert.Equal(expected.Length, merged.Count);
             for (int i = 0; i < expected.Length; i++)
@@ -50,15 +51,17 @@ namespace ChallengesTests.MicrosoftQuestions
             }
         }
         
-        public ListNode MergeTwoLists(ListNode l1, ListNode l2)
+        public ListNode? MergeTwoLists(ListNode? l1, ListNode l2)
         {
-            var result = new ListNode(0);
+            var result = new ListNode();
             var current = result;
             while (l1 != null || l2 != null)
             {
                 if (l1 == null)
                 {
+                    Debug.Assert(current != null, nameof(current) + " != null");
                     current.next = l2;
+                    Debug.Assert(l2 != null, nameof(l2) + " != null");
                     l2 = l2.next;
                     current = current.next;
                     continue;
@@ -66,6 +69,7 @@ namespace ChallengesTests.MicrosoftQuestions
                 
                 if (l2 == null)
                 {
+                    Debug.Assert(current != null, nameof(current) + " != null");
                     current.next = l1;
                     l1 = l1.next;
                     current = current.next;
@@ -76,11 +80,13 @@ namespace ChallengesTests.MicrosoftQuestions
                 var x2 = l2.val;
                 if (x1 < x2)
                 {
+                    Debug.Assert(current != null, nameof(current) + " != null");
                     current.next = l1;
                     l1 = l1.next;
                 }
                 else
                 {
+                    Debug.Assert(current != null, nameof(current) + " != null");
                     current.next = l2;
                     l2 = l2.next;
                 }
@@ -90,9 +96,9 @@ namespace ChallengesTests.MicrosoftQuestions
             return result.next;
         }
         
-        public ListNode MergeKLists(ListNode[] lists)
+        public ListNode? MergeKLists(ListNode?[] lists)
         {
-            var result = new ListNode(0);
+            var result = new ListNode();
             var current = result;
             while (lists.Any(x => x != null))
             {
@@ -114,7 +120,7 @@ namespace ChallengesTests.MicrosoftQuestions
 
                 current.next = minNode;
                 current = current.next;
-                lists[minIndex] = lists[minIndex].next;
+                lists[minIndex] = lists[minIndex]!.next;
             }
             return result.next;
         }

@@ -11,15 +11,15 @@ namespace ChallengesTests.MicrosoftQuestions
         [Fact]
         public void SetZeroesTests()
         {
-            var matrix = new int[][]
+            var matrix = new[]
             {
-                new int[] {1, 1, 1},
-                new int[] {1, 0, 1},
-                new int[] {1, 1, 1},
+                new[] {1, 1, 1},
+                new[] {1, 0, 1},
+                new[] {1, 1, 1},
             };
             SetZeroes(matrix);
-            var emptyRows = new int[] { 1 };
-            var emptyCols = new int[] { 1 };
+            var emptyRows = new[] { 1 };
+            var emptyCols = new[] { 1 };
             for (int i = 0; i < matrix.Length; i++)
             {
                 for (int j = 0; j < matrix[i].Length; j++)
@@ -33,7 +33,7 @@ namespace ChallengesTests.MicrosoftQuestions
             }
         }
         
-        public void SetZeroes(int[][] matrix)
+        private void SetZeroes(int[][] matrix)
         {
             var emptyRows = new int[matrix.Length];
             var emptyCols = new int[matrix[0].Length];

@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using System.Collections.Specialized;
 
 namespace DataStructures
 {
+    // ReSharper disable once InconsistentNaming
     public class LRUCache
     {
         

@@ -7,8 +7,6 @@ namespace DataStructures
         private Dictionary<int, LinkedListNode<int>> _items = new Dictionary<int, LinkedListNode<int>>();
         private LinkedList<int> _list = new LinkedList<int>();
 
-        private int _firstUnique = -1;
-        
         public FirstUnique(int[] nums) {
             for (int i = 0; i < nums.Length; i++)
             {

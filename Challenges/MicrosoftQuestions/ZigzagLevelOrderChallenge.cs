@@ -10,9 +10,9 @@ namespace ChallengesTests.MicrosoftQuestions
             => "https://leetcode.com/explore/interview/card/microsoft/31/trees-and-graphs/197/";
         
         [Theory]
-        [InlineData(new int[] { 5,1,4,-1,-1,3,6 }, new int[] { 5,4,1,3,6})]
-        [InlineData(new int[] { 1,2,3,4,-1,-1,5 }, new int[] { 1,3,2,4,5})]
-        [InlineData(new int[] { 0,2,4,1,-1,3,-10,5,1,-1,6,-1,8 }, new int[] { 0,4,2,1,3,-10,8,6,1,5})]
+        [InlineData(new[] { 5,1,4,-1,-1,3,6 }, new[] { 5,4,1,3,6})]
+        [InlineData(new[] { 1,2,3,4,-1,-1,5 }, new[] { 1,3,2,4,5})]
+        [InlineData(new[] { 0,2,4,1,-1,3,-10,5,1,-1,6,-1,8 }, new[] { 0,4,2,1,3,-10,8,6,1,5})]
         public void ZigzagLevelOrderTests(int[] tree, int[] expected)
         {
             var node = new TreeNode(tree);
@@ -31,9 +31,6 @@ namespace ChallengesTests.MicrosoftQuestions
         
         public IList<IList<int>> ZigzagLevelOrder(TreeNode root)
         {
-            if (root == null)
-                return new List<IList<int>>();
-
             var result = new List<IList<int>>();
             var linkedList = new Stack<TreeNode>();
             linkedList.Push(root);

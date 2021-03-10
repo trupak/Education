@@ -45,11 +45,6 @@ namespace ChallengesTests.MicrosoftQuestions
         {
             return c == '}' || c == ']' || c == ')';
         }
-        
-        private bool leftBracet(Char c)
-        {
-            return c == '{' || c == '[' || c == '(';
-        }
 
         private bool mathedBracet(Char l, Char r)
         {

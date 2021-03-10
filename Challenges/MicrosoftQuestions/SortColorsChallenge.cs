@@ -1,4 +1,3 @@
-using DataStructures;
 using Xunit;
 
 namespace ChallengesTests.MicrosoftQuestions
@@ -9,10 +8,10 @@ namespace ChallengesTests.MicrosoftQuestions
             => "https://leetcode.com/explore/interview/card/microsoft/47/sorting-and-searching/193/";
 
         [Theory]
-        [InlineData(new int[] { 0 }, new int[] {0})]
-        [InlineData(new int[] { 1 }, new int[] {1})]
-        [InlineData(new int[] { 2,0,1 }, new int[] {0,1,2})]
-        [InlineData(new int[] { 2,0,2,1,1,0 }, new int[] {0,0,1,1,2,2})]
+        [InlineData(new[] { 0 }, new[] {0})]
+        [InlineData(new[] { 1 }, new[] {1})]
+        [InlineData(new[] { 2,0,1 }, new[] {0,1,2})]
+        [InlineData(new[] { 2,0,2,1,1,0 }, new[] {0,0,1,1,2,2})]
         public void SortColorsTests(int[] nums, int[] expected)
         {
             SortColors(nums);
@@ -22,7 +21,7 @@ namespace ChallengesTests.MicrosoftQuestions
             }
         }
         
-        public void SortColors(int[] nums)
+        private void SortColors(int[] nums)
         {
             var count0 = 0;
             var count1 = 0;

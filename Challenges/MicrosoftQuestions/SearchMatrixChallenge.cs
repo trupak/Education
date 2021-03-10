@@ -11,19 +11,19 @@ namespace ChallengesTests.MicrosoftQuestions
         [Fact]
         public void SearchMatrixTests()
         {
-            var matrix = new int[][]
+            var matrix = new[]
             {
-                new int[] {1},
-                new int[] {3}
+                new[] {1},
+                new[] {3}
             };
             
             Assert.False(SearchMatrix(matrix, 2));
             
-            matrix = new int[][]
+            matrix = new[]
             {
-                new int[] {1, 3, 5, 7},
-                new int[] {10, 11, 16, 20},
-                new int[] {123, 30, 34, 60},
+                new[] {1, 3, 5, 7},
+                new[] {10, 11, 16, 20},
+                new[] {123, 30, 34, 60},
             };
 
             Assert.False(SearchMatrix(matrix, 13));

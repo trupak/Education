@@ -1,4 +1,3 @@
-using System;
 using Xunit;
 
 namespace ChallengesTests.MicrosoftQuestions
@@ -9,14 +8,14 @@ namespace ChallengesTests.MicrosoftQuestions
             => "https://leetcode.com/explore/interview/card/microsoft/47/sorting-and-searching/191/";
 
         [Theory]
-        [InlineData(new int[]{4,5,6,7,0,1,2},0,4)]
-        [InlineData(new int[]{4,5,6,7,0,1,2},3,-1)]
-        [InlineData(new int[]{1},0,-1)]
-        [InlineData(new int[]{5,1,3},5,0)]
-        [InlineData(new int[]{4,5,6,7,8,1,2,3},8,4)]
-        [InlineData(new int[]{1,3,5},2,-1)]
-        [InlineData(new int[]{1,3,5},5,2)]
-        [InlineData(new int[]{4,5,6,7,0,1,2},2,6)]
+        [InlineData(new[]{4,5,6,7,0,1,2},0,4)]
+        [InlineData(new[]{4,5,6,7,0,1,2},3,-1)]
+        [InlineData(new[]{1},0,-1)]
+        [InlineData(new[]{5,1,3},5,0)]
+        [InlineData(new[]{4,5,6,7,8,1,2,3},8,4)]
+        [InlineData(new[]{1,3,5},2,-1)]
+        [InlineData(new[]{1,3,5},5,2)]
+        [InlineData(new[]{4,5,6,7,0,1,2},2,6)]
         public void SearchTests(int[] nums, int target, int expected)
         {
             var result = Search(nums, target);
@@ -25,9 +24,9 @@ namespace ChallengesTests.MicrosoftQuestions
         
         public int Search(int[] nums, int target) {
             if (nums.Length == 1)
-                return nums[0] == target ? 0 : -1;;
+                return nums[0] == target ? 0 : -1;
 
-            
+
             return Search(nums, target, 0, nums.Length - 1);
         }
         
