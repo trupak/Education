@@ -57,7 +57,7 @@ namespace ChallengesTests.MicrosoftQuestions
 
             var left = Recurse(root.left, p, q) ? 1 : 0;
             var right = Recurse(root.right, p, q) ? 1 : 0;
-            var mid = root == p || root == q ? 1 : 0;
+            var mid = Equals(root, p) || Equals(root, q) ? 1 : 0;
             
             if (mid + left + right >= 2) {
                 _ans = root;

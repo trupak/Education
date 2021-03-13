@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace DataStructures
 {
@@ -20,7 +21,7 @@ namespace DataStructures
             if (inOrder != null && inOrder.Length > 0)
             {
                 var level = 1;
-                this.val = inOrder[0];
+                val = inOrder[0];
                 Queue<TreeNode> q = new Queue<TreeNode>();
                 q.Enqueue(this);
                 while (q.Count > 0)
@@ -55,6 +56,38 @@ namespace DataStructures
         public TreeNode Search(int value)
         {
             return Search(this, value);
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj == null)
+                return false;
+
+            if (obj.GetType() != typeof(TreeNode))
+                return false;
+
+            if (ReferenceEquals(this, obj))
+                return true;
+
+            var otherNode = obj as TreeNode;
+            Debug.Assert(otherNode != null, nameof(otherNode) + " != null");
+            if (val != otherNode.val)
+                return false;
+
+            var leftEqual = left == null || left.Equals(otherNode.left);
+            var rightEqual = right == null || right.Equals(otherNode.right);
+            return leftEqual && rightEqual;
+        }
+
+        protected bool Equals(TreeNode other)
+        {
+            return val == other.val && Equals(left, other.left) && Equals(right, other.right);
+        }
+
+        public override int GetHashCode()
+        {
+            // ReSharper disable once BaseObjectGetHashCodeCallInGetHashCode
+            return base.GetHashCode();
         }
 
         public List<int> ToPreOrder()
