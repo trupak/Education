@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using Xunit;
 
@@ -20,64 +21,33 @@ namespace ChallengesTests.March2021Challenge
             Assert.Equal(expected, NumFactoredBinaryTrees(arr));
         }
 
-        private Dictionary<int, List<(int, int)>> _mCache = new Dictionary<int, List<(int, int)>>();
-        private Dictionary<int, int> _countCache = new Dictionary<int, int>();
-        
-        public int NumFactoredBinaryTrees(int[] arr)
-        {
-            for (int i = 0; i < arr.Length; i++)
-            {
-                for (int j = 0; j < arr.Length; j++)
-                {
-                    if (_mCache.ContainsKey(arr[i] * arr[j]))
-                    {
-                        _mCache[arr[i] * arr[j]].Add((arr[i], arr[j]));
+        private int NumFactoredBinaryTrees(int[] a) {
+            int MOD = 1_000_000_007;
+            int n = a.Length;
+            Array.Sort(a);
+            long[] dp = new long[n];
+            Array.Fill(dp, 1);
+
+            Dictionary<int, int> index = new();
+            for (int i = 0; i < n; ++i)
+                index.Add(a[i], i);
+
+            for (int i = 0; i < n; ++i)
+            for (int j = 0; j < i; ++j) {
+                if (a[i] % a[j] == 0) { // A[j] is left child
+                    int right = a[i] / a[j];
+                    if (index.ContainsKey(right)) {
+                        dp[i] = (dp[i] + dp[j] * dp[index[right]]) % MOD;
                     }
-                    else
-                    {
-                        _mCache[arr[i] * arr[j]] = new List<(int, int)>
-                        {
-                            (arr[i], arr[j])
-                        };
-                    }
-                    
-                    if (arr[i] != arr[j])
-                        _mCache[arr[i] * arr[j]].Add((arr[j], arr[i]));
-                        
                 }
             }
 
-            var result = 0;
-            for (int i = 0; i < arr.Length; i++)
+            long ans = 0;
+            foreach (long x in dp)
             {
-                result += CountOfTrees(arr[i]);
+                ans += x;
             }
-            
-            return result;
-        }
-
-        public int CountOfTrees(int number)
-        {
-            if (!_mCache.ContainsKey(number))
-            {
-                return 1;
-            }
-
-            if (_countCache.ContainsKey(number))
-                return _countCache[number];
-            
-            var sum = 1;
-            foreach (var pair in _mCache[number])
-            {
-                sum += 1;
-                var sumItem1 = CountOfTrees(pair.Item1) - 1;
-                sum += sumItem1;
-                var sumItem2 = CountOfTrees(pair.Item2) - 1;
-                sum += sumItem2;
-            }
-
-            _countCache[number] = sum;
-            return sum;
+            return (int) (ans % MOD);
         }
     }
 } 
