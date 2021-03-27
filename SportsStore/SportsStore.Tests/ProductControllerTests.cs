@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Moq;
 using SportsStore.Controllers;
 using SportsStore.Models;
+using SportsStore.Models.ViewModels;
 using Xunit;
 
 namespace SportsStore.Tests
@@ -49,9 +50,9 @@ namespace SportsStore.Tests
             controller.PageSize = 3;
             var result = controller.List(2) as ViewResult;
 
-            var products = result?.ViewData.Model as IQueryable<Product>;
-            var productArray = products?.ToArray();
-            Assert.NotNull(productArray);
+            var products = result?.ViewData.Model as ProductsListViewModel;
+            Assert.NotNull(products);
+            var productArray = products.Products.ToArray();
             Assert.Equal(2, productArray.Length);
             Assert.Equal("P4", productArray[0].Name);
             Assert.Equal("P5", productArray[1].Name);
