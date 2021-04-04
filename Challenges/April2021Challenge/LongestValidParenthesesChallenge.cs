@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Runtime.InteropServices;
 using Xunit;
 
 namespace ChallengesTests.April2021Challenge
@@ -19,17 +18,7 @@ namespace ChallengesTests.April2021Challenge
         public void LongestValidParenthesesTests(string s, int expected) {
             Assert.Equal(expected, LongestValidParentheses(s));
         }
-        
-        [Theory]
-        [InlineData("(()", false)]
-        [InlineData(")()())", false)]
-        [InlineData("", true)]
-        [InlineData("()()", true)]
-        [InlineData("(()(()()))", true)]
-        public void IsValidTests(string s, bool expected) {
-            Assert.Equal(expected, IsValid(s));
-        }
-        
+
         public int LongestValidParentheses(string s)
         {
             var result = 0;
@@ -79,33 +68,6 @@ namespace ChallengesTests.April2021Challenge
                 result = Math.Max(result, currentMax);
             }
             return result;
-        }
-
-        private bool IsValid(string s)
-        {
-            var stack = new Queue<char>();
-
-            for (int i = 0; i < s.Length; i++)
-            {
-                if (stack.Count == 0 && s[i] == ')')
-                    return false;
-
-                if (s[i] == '(')
-                {
-                    stack.Enqueue(s[i]);
-                    continue;
-                }
-                
-                var top1 = stack.Peek();
-                if (top1 == '(' && s[i] == ')')
-                    stack.Dequeue();
-                else
-                {
-                    stack.Enqueue(s[i]);
-                }
-            }
-
-            return stack.Count == 0;
         }
     }
 }

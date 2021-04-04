@@ -32,8 +32,10 @@ namespace ChallengesTests.GoogleQuestions
             Assert.Equal(expectedResult.Count, result.Count);
             foreach (var e1 in expectedResult)
             {
+                // ReSharper disable once ParameterOnlyUsedForPreconditionCheck.Local
                 Assert.Contains(result, x =>
                 {
+                    // ReSharper disable once ParameterOnlyUsedForPreconditionCheck.Local
                     return x.All(y => e1.Contains(y));
                 });
             }

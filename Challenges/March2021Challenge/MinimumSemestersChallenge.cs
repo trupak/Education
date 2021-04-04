@@ -12,20 +12,20 @@ namespace ChallengesTests.March2021Challenge
         public void MinimumSemestersTests()
         {
             var n = 3;
-            var relations = new int[][]
+            var relations = new[]
             {
-                new int[] {1, 3},
-                new int[] {2, 3},
+                new[] {1, 3},
+                new[] {2, 3},
             };
             var result = MinimumSemesters(n, relations);
             Assert.Equal(2, result);
             
             n = 3;
-            relations = new int[][]
+            relations = new[]
             {
-                new int[] {1, 2},
-                new int[] {2, 3},
-                new int[] {3, 1},
+                new[] {1, 2},
+                new[] {2, 3},
+                new[] {3, 1},
             };
             result = MinimumSemesters(n, relations);
             Assert.Equal(-1, result);
