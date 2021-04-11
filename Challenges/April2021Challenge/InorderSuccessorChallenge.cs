@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Diagnostics;
 using DataStructures;
 using Xunit;
 
@@ -24,11 +25,12 @@ namespace ChallengesTests.April2021Challenge
             }
             else
             {
-                Assert.Equal(expected, result.val);    
+                Debug.Assert(result != null, nameof(result) + " != null");
+                Assert.Equal(expected, result.val);
             }
         }
         
-        public TreeNode InorderSuccessor(TreeNode root, TreeNode p)
+        public TreeNode? InorderSuccessor(TreeNode root, TreeNode p)
         {
             var stack = new Stack<TreeNode>();
             var cur = root;
