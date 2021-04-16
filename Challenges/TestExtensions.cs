@@ -7,6 +7,8 @@ namespace ChallengesTests
         public static int[][] ToMatrix(this string s)
         {
             var data = s.Substring(1, s.Length - 2);
+            if (string.IsNullOrEmpty(data))
+                return new int[0][];
             data = data
                 .Replace("],[", "|")
                 .Replace("[",string.Empty)
