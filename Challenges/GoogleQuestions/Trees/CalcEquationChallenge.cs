@@ -41,7 +41,7 @@ namespace ChallengesTests.GoogleQuestions.Trees
                 }
             };
             var result = CalcEquation(equations, values, queries);
-            var expected = new double[] {6.0, 0.5, -1.0, 1.0, -1.0};
+            var expected = new[] {6.0, 0.5, -1.0, 1.0, -1.0};
             Assert.Equal(expected, result);
         }
 
@@ -110,6 +110,7 @@ namespace ChallengesTests.GoogleQuestions.Trees
                         continue;
                     ret = backtrackEvaluate(graph, nextNode, targetNode,
                         accProduct * pair.Value, visited);
+                    // ReSharper disable once CompareOfFloatsByEqualityOperator
                     if (ret != -1.0)
                         break;
                 }

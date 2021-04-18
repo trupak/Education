@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using DataStructures;
 using Xunit;
 
@@ -15,16 +16,17 @@ namespace ChallengesTests.April2021Challenge
         public void PartionTests(int[] list, int x, int[] expected)
         {
             var result = Partition(new ListNode(list), x);
+            Debug.Assert(result != null, nameof(result) + " != null");
             Assert.Equal(expected, result.ToList().ToArray());
         }
         
-        public ListNode Partition(ListNode head, int x)
+        public ListNode? Partition(ListNode head, int x)
         {
-            ListNode less = null;
-            ListNode more = null;
+            ListNode? less = null;
+            ListNode? more = null;
             ListNode cur = head;
-            ListNode lessHead = null;
-            ListNode moreHead = null;
+            ListNode? lessHead = null;
+            ListNode? moreHead = null;
             while (cur != null)
             {
                 var tmp = cur;
