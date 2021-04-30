@@ -12,7 +12,8 @@ namespace DataStructures
             
         private readonly List<ValueWithMinumum> _list = new List<ValueWithMinumum>();
 
-        public void Push(int x) {
+        public void Push(int x)
+        {
             _list.Add(new ValueWithMinumum
             {
                 Value = x,

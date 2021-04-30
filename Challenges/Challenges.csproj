@@ -29,4 +29,8 @@
       <ProjectReference Include="..\DataStructures.Tests\DataStructures.Tests.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="GoogleQuestions\Design" />
+    </ItemGroup>
+
 </Project>
